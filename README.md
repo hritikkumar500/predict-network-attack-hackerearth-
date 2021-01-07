@@ -1,4 +1,5 @@
-# predict-network-attack-hackerearth-
+# Predict-Network-Attack
+# HACKEREARTH
 Accuracy score 0.7774%
 Data Description
 You are given three files to download: train, test and samplesubmission. The data contains anonymised set of features. Train data has 169307 rows and test data has 91166.
